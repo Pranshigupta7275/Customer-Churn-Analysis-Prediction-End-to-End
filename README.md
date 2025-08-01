@@ -1,4 +1,13 @@
 # 📊 Customer Churn Analysis & Prediction – End-to-End Project
+## 📊 Project Overview
+
+Complete churn analysis & prediction pipeline using SQL, Python, Power BI.
+
+---
+
+## 🎥 Dashboard Walkthrough Video 
+[Click here to watch video walkthrough (Google Drive)](https://drive.google.com/file/d/1b2tfX8ftiHhthxvlS8csNUHlZwtfiBTQ/view?usp=sharing)
+
 
 This portfolio project demonstrates a complete churn analysis and prediction pipeline using:
 
